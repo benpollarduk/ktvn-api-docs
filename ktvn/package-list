@@ -3,10 +3,6 @@ $dokka.linkExtension:html
 $dokka.location:com.github.benpollarduk.ktvn.audio////PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/index.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/AudioListener///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-audio-listener/index.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/AudioListener/sfx/#com.github.benpollarduk.ktvn.audio.SoundEffect/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-audio-listener/sfx.html
-$dokka.location:com.github.benpollarduk.ktvn.audio/AudioManager///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-audio-manager/index.html
-$dokka.location:com.github.benpollarduk.ktvn.audio/AudioManager/AudioManager/#com.github.benpollarduk.ktvn.logic.adapters.AudioAdapter/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-audio-manager/-audio-manager.html
-$dokka.location:com.github.benpollarduk.ktvn.audio/AudioManager/sfx/#com.github.benpollarduk.ktvn.audio.SoundEffect/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-audio-manager/sfx.html
-$dokka.location:com.github.benpollarduk.ktvn.audio/AudioManager/sfx/#kotlin.String/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-audio-manager/sfx.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/FileSoundEffect.Companion///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-file-sound-effect/-companion/index.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/FileSoundEffect.Companion/soundEffectFromFile/#kotlin.String/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-file-sound-effect/-companion/sound-effect-from-file.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/FileSoundEffect///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-file-sound-effect/index.html
@@ -34,6 +30,10 @@ $dokka.location:com.github.benpollarduk.ktvn.audio/ResourceTrack/ResourceTrack/#
 $dokka.location:com.github.benpollarduk.ktvn.audio/ResourceTrack/key/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-resource-track/key.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/ResourceTrack/loop/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-resource-track/loop.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/SoundEffect///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-sound-effect/index.html
+$dokka.location:com.github.benpollarduk.ktvn.audio/SoundEffectPlayer///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-sound-effect-player/index.html
+$dokka.location:com.github.benpollarduk.ktvn.audio/SoundEffectPlayer/SoundEffectPlayer/#com.github.benpollarduk.ktvn.logic.adapters.AudioAdapter/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-sound-effect-player/-sound-effect-player.html
+$dokka.location:com.github.benpollarduk.ktvn.audio/SoundEffectPlayer/sfx/#com.github.benpollarduk.ktvn.audio.SoundEffect/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-sound-effect-player/sfx.html
+$dokka.location:com.github.benpollarduk.ktvn.audio/SoundEffectPlayer/sfx/#kotlin.String/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-sound-effect-player/sfx.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/SoundPlaybackResult.Companion///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-sound-playback-result/-companion/index.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/SoundPlaybackResult.Companion/SUCCESS/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-sound-playback-result/-companion/-s-u-c-c-e-s-s.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/SoundPlaybackResult///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-sound-playback-result/index.html
